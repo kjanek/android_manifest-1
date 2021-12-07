@@ -44,6 +44,9 @@
   <remove-project name="device/amlogic/yukawa-kernel" />
   <remove-project name="platform/hardware/broadcom/libbt" />
   <remove-project name="platform/hardware/broadcom/wlan" />
+  <remove-project name="platform/hardware/google/gchips" />
+  <remove-project name="platform/hardware/google/graphics/common" />
+  <remove-project name="platform/hardware/google/graphics/gs101" />
   <remove-project name="platform/hardware/invensense" />
   <remove-project name="platform/hardware/knowles/athletico/sound_trigger_hal" />
   <remove-project name="platform/hardware/qcom/audio" />
